@@ -1,3 +1,107 @@
 {
-  "placeholderImages": []
+  "projects": [
+    {
+      "id": "proj1",
+      "title": "Cloud-Native Platform for FinTech",
+      "description": "Architected a scalable, secure, and resilient cloud-native platform on AWS, enabling rapid feature delivery and reducing operational overhead by 40%.",
+      "imageUrl": "https://picsum.photos/seed/101/600/400",
+      "imageHint": "cloud platform",
+      "tags": [
+        "AWS",
+        "Kubernetes",
+        "FinTech"
+      ]
+    },
+    {
+      "id": "proj2",
+      "title": "CI/CD Pipeline Automation for E-commerce",
+      "description": "Implemented a fully automated CI/CD pipeline using Jenkins and Terraform, cutting down deployment times from hours to minutes and improving developer productivity.",
+      "imageUrl": "https://picsum.photos/seed/102/600/400",
+      "imageHint": "code pipeline",
+      "tags": [
+        "CI/CD",
+        "Jenkins",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "proj3",
+      "title": "Azure Security Hardening for Healthcare",
+      "description": "Conducted a comprehensive security audit and implemented robust security controls on Azure, ensuring HIPAA compliance and protecting sensitive patient data.",
+      "imageUrl": "https://picsum.photos/seed/103/600/400",
+      "imageHint": "security shield",
+      "tags": [
+        "Azure",
+        "Security",
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "proj4",
+      "title": "GCP Migration for a SaaS Startup",
+      "description": "Seamlessly migrated a monolithic application to a microservices architecture on Google Cloud Platform, enhancing scalability and service availability.",
+      "imageUrl": "https://picsum.photos/seed/104/600/400",
+      "imageHint": "data migration",
+      "tags": [
+        "GCP",
+        "Migration",
+        "SaaS"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "art1",
+      "title": "The Future of DevOps: Trends to Watch in 2024",
+      "excerpt": "Explore the latest trends shaping the DevOps landscape, from GitOps and DevSecOps to the increasing role of AI in...",
+      "author": "Alice",
+      "date": "2024-05-20",
+      "imageUrl": "https://picsum.photos/seed/201/600/400",
+      "imageHint": "futuristic technology"
+    },
+    {
+      "id": "art2",
+      "title": "Mastering Kubernetes: A Beginner's Guide",
+      "excerpt": "A comprehensive guide to understanding Kubernetes concepts, architecture, and how to get started with your first cluster...",
+      "author": "Bob",
+      "date": "2024-05-15",
+      "imageUrl": "https://picsum.photos/seed/202/600/400",
+      "imageHint": "container ship"
+    },
+    {
+      "id": "art3",
+      "title": "Why Cloud Security Should Be Your Top Priority",
+      "excerpt": "In an era of constant threats, learn why proactive cloud security measures are crucial for protecting your digital assets...",
+      "author": "Charlie",
+      "date": "2024-05-10",
+      "imageUrl": "https://picsum.photos/seed/203/600/400",
+      "imageHint": "digital lock"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test1",
+      "name": "John Doe",
+      "company": "Innovate Inc.",
+      "quote": "SR Tech Solutions transformed our development lifecycle. Their expertise in CI/CD is unmatched, and we've seen a significant boost in our deployment frequency and stability.",
+      "avatarUrl": "https://picsum.photos/seed/301/100/100",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "test2",
+      "name": "Jane Smith",
+      "company": "SecureHealth",
+      "quote": "The cloud security assessment and hardening provided by their team were incredibly thorough. We now have peace of mind knowing our infrastructure is secure and compliant.",
+      "avatarUrl": "https://picsum.photos/seed/302/100/100",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "test3",
+      "name": "Sam Wilson",
+      "company": "Retail-Go",
+      "quote": "Migrating to the cloud seemed daunting, but SR Tech's strategic approach made it a seamless and efficient process. Our platform is now more scalable and performant than ever.",
+      "avatarUrl": "https://picsum.photos/seed/303/100/100",
+      "imageHint": "person portrait"
+    }
+  ]
 }
