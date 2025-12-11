@@ -12,7 +12,7 @@ export function Footer() {
             </a>
           </div>
           <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} SR Tech Solutions. All rights reserved.
+            &copy; {new Date().getFullYear()} DevOps Solutions. All rights reserved.
           </p>
           <div className="flex space-x-4">
             <a href="#" className="text-muted-foreground hover:text-foreground">

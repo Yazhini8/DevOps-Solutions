@@ -19,7 +19,7 @@ export function Logo(props: SVGProps<SVGSVGElement>) {
         fill="hsl(var(--primary))"
         className="dark:fill-primary-foreground"
       >
-        SR Tech
+        DevOps
       </text>
       <text
         x="120"

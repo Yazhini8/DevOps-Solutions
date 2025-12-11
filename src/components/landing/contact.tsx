@@ -14,9 +14,9 @@ export function Contact() {
               Have a project in mind or just want to learn more about our services? We'd love to hear from you. Fill out the form, and we'll get back to you as soon as possible.
             </p>
             <div className="space-y-2">
-              <h3 className="font-semibold">SR Tech Solutions</h3>
+              <h3 className="font-semibold">DevOps Solutions</h3>
               <p className="text-muted-foreground">123 Cloud Lane, Innovation City, 12345</p>
-              <p className="text-muted-foreground">contact@srtech.solutions</p>
+              <p className="text-muted-foreground">contact@devops.solutions</p>
             </div>
           </div>
           <form className="space-y-4">

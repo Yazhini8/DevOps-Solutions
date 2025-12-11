@@ -30,11 +30,11 @@ const prompt = ai.definePrompt({
   name: 'expertQAPrompt',
   input: {schema: ExpertQAInputSchema},
   output: {schema: ExpertQAOutputSchema},
-  prompt: `You are an AI assistant for SR Tech Solutions, a DevOps and cloud computing consulting company. A user has submitted the following question:
+  prompt: `You are an AI assistant for DevOps Solutions, a DevOps and cloud computing consulting company. A user has submitted the following question:
 
 Question: {{{question}}}
 
-You must determine the most appropriate subject matter expert within SR Tech Solutions to answer this question. SR Tech Solutions has the following experts:
+You must determine the most appropriate subject matter expert within DevOps Solutions to answer this question. DevOps Solutions has the following experts:
 
 - Alice - Specializes in cloud infrastructure and automation.
 - Bob - Specializes in DevOps practices and CI/CD pipelines.
